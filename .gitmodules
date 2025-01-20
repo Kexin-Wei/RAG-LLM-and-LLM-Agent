@@ -1,0 +1,3 @@
+[submodule "2aisg-5-day-ai-agent"]
+	path = 2aisg-5-day-ai-agent
+	url = https://github.com/aicampg/aisg-5-day-ai-agent.git
