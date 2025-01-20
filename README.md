@@ -14,6 +14,7 @@ Here in `RAG_Trad.ipynb` and `RAG_Agentic.ipynb` I created a traditional and age
 
 ## Tradition RAG Chatbot
 Can tell the result is not bad
+
 ![](./pics/rag_trad_result.png)
 
 ## Agentic RAG Chatbot
@@ -21,4 +22,5 @@ Can tell the result is not bad
 The result is more comprehensive and detailed, but less focused on the database.
 
 Maybe need a better prompt or a more reasonable structure to make it more focused on the database
+
 ![](./pics/rag_agentic_result.png)
